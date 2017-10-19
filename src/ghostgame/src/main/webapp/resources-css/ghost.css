@@ -1,0 +1,15 @@
+body{
+	text-align: center;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.width20{
+	width: 20%;
+}
+.ghost-modal-title{
+	width: 90%;
+	text-align: left;
+}
